@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Story biz</string>
+
+    <string-array name="stories_names">
+
+        <item>Usefull Websites</item>
+        <item>Hussain</item>
+        <item>Computer</item>
+
+
+    </string-array>
+
+
+</resources>
